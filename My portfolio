@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My Portfolio</h1>
+    <p>This website is created by Jharana Barai Magar</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="information.html">Information</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Jharana Barai Magar.  
+        I am a student of Shree Tribhuwan Shanti Secondary School.
+        I study in grade 9 Jasmine.    
+        This is my portfolio website.
+        
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 My Portfolio</p>
+</footer>
+
+</body>
+</html>
