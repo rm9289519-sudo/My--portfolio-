@@ -29,9 +29,9 @@
 </section>
 
 <footer>
-    <p>© 2026 My Portfolio</p>
+    
 </footer>
 
 </body>
-</html># My--portfolio-
-My portfolio website project 
+</html>
+.
